@@ -1,0 +1,17 @@
+streamlit==1.38.0
+faiss-cpu==1.7.4
+sentence-transformers==3.0.1
+transformers==4.44.2
+torch==2.2.2
+numpy==1.26.4
+pypdf==4.3.1
+tqdm==4.66.4
+pandas==2.2.2
+langchain==0.3.26
+python-dotenv==1.0.1
+langchain-openai==0.3.24
+langchain-community==0.3.26
+langchain-pinecone==0.2.8
+langchain-ollama
+fastapi==0.100.0
+uvicorn==0.23.2
