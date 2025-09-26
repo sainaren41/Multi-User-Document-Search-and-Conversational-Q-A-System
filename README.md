@@ -21,10 +21,10 @@
 cd backend
 uvicorn main:app --reload
 
-### 2. Frontend (Streamlit)
+**### 2. Frontend (Streamlit)**
 cd frontend
 streamlit run app.py
 
-### 3. Requirements
+**### 3. Requirements**
 pip install -r requirements.txt
 
